@@ -1,0 +1,16 @@
+# Dataset
+chest-xray-pneumonia/
+
+# Kaggle
+kaggle.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos
+venv/
+.env
+
+# VS Code
+.vscode/
